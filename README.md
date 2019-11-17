@@ -1,5 +1,5 @@
 # SFSecSettingService
-Create/Read/Update/Delete the security setting for salesforce.
+Create/Read/Update/Delete the security setting for salesforce.<br>
 If you want the source, please email(English or Japanese) to the developer.
 
 # how to use
